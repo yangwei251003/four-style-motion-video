@@ -1,0 +1,4 @@
+interface:
+  display_name: "四类代码动画"
+  short_description: "用代码制作视觉隐喻、物体状态、变量图解和像素剧情动画，并核验画面、动效与音效"
+  default_prompt: "用 $four-style-motion-video 选适合的画面逻辑、制作动画成片并核验画面、动效和音效。"
